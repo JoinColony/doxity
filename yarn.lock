@@ -3029,9 +3029,9 @@ truffle-blockchain-utils@^0.0.4:
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/truffle-blockchain-utils/-/truffle-blockchain-utils-0.0.4.tgz#e31a346db61775c80ccd6f632de5e72f97f20ea5"
 
-truffle-compile@^3.0.7:
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/truffle-compile/-/truffle-compile-3.0.7.tgz#7b8da962750cad93a28bea64aecd69f925039fdb"
+truffle-compile@3.0.6:
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/truffle-compile/-/truffle-compile-3.0.6.tgz#2ae6a4303d49a360640c391d5129d5cc92fbc6a9"
   dependencies:
     async "^2.1.4"
     colors "^1.1.2"
