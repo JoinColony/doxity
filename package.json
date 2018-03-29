@@ -21,15 +21,15 @@
   "homepage": "https://github.com/DigixGlobal/doxidity",
   "devDependencies": {
     "babel-cli": "^6.18.0",
+    "babel-eslint": "^8.2.2",
     "babel-preset-es2015": "^6.16.0",
     "babel-preset-stage-2": "^6.17.0",
-    "babel-eslint": "^7.2.1",
     "babel-register": "^6.16.3",
-    "eslint": "^3.7.1",
-    "eslint-config-airbnb": "^12.0.0",
-    "eslint-plugin-import": "^1.16.0",
-    "eslint-plugin-jsx-a11y": "^2.2.3",
-    "eslint-plugin-react": "^6.4.1"
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0"
   },
   "dependencies": {
     "glob": "^7.1.1",
@@ -40,9 +40,9 @@
     "rimraf": "^2.5.4",
     "tar.gz": "^1.0.5",
     "toml": "^2.3.0",
-    "tomlify-j0.4": "^1.0.1",
-    "truffle-compile": "git://github.com/digixglobal/truffle-compile.git#017e1962623f7e84bd0c52d8bea8bf278ae79f5e",
+    "tomlify-j0.4": "^3.0.0",
+    "truffle-compile": "^3.0.7",
     "truffle-config": "^1.0.2",
-    "truffle-resolver": "^3.0.0"
+    "truffle-resolver": "^4.0.2"
   }
 }
